@@ -1,0 +1,4 @@
+AuthUserFile /home/sagawam/test/.htpasswd
+AuthName "Protecting my directory
+AuthType Basic
+Require valid-user
